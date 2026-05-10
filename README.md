@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mridul-gupta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mridul-gupta678)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mridulg.678@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mridul-gupta678)
 [![Portfolio](https://img.shields.io/badge/Live_Projects-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-interview-platform-rosy.vercel.app/)
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑‍💻 About Me-
+## 🧑‍💻 About Me
 
 I'm a full-stack developer with a growing focus on **AI/ML** — particularly how intelligent systems can be embedded into real-world, production-grade applications. My work sits at the intersection of clean software engineering and practical AI: from multi-store price comparison platforms to deep learning-based image detection pipelines to GPT-4o-powered mock interview systems.
 
@@ -149,13 +149,13 @@ An advanced near-duplicate image detection system using Siamese Vision Transform
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mridul-gupta678&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mridul-gupta678&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul-gupta678&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mridul-gupta678&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mridul-gupta678&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=Mridul-gupta678&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
@@ -167,7 +167,7 @@ An advanced near-duplicate image detection system using Siamese Vision Transform
 
 **💬 Got an interesting problem to solve? Let's build something together.**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mridul-gupta)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mridul-gupta678)
 [![Email](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mridulg.678@gmail.com)
 
 </div>
