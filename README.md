@@ -54,6 +54,8 @@ A full-stack AI-powered mock interview platform simulating real interview enviro
 
 ### 🛒 [PricePilot](https://github.com/Mridul-gupta678) — Multi-Store Price Comparison & Tracking Platform
 
+**[🔗 Live Demo](https://ai-interview-platform-rosy.vercel.app/) · [📂 Source](https://github.com/Mridul-gupta678/AI_INTERVIEW)**
+
 A full-stack web platform for comparing product prices across multiple Indian e-commerce websites in real time.
 
 - ⚡ Built RESTful backend services using **FastAPI** to aggregate, normalise, and serve product metadata
