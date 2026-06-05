@@ -31,7 +31,7 @@ I'm a full-stack developer with a growing focus on **AI/ML** — particularly ho
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects:
 
 ### 🧠 [InterviewAI](https://ai-interview-platform-rosy.vercel.app/) — Production-Ready AI Mock Interview Platform
 
