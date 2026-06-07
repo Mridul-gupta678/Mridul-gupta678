@@ -73,7 +73,7 @@ A full-stack healthcare platform enabling patients to discover doctors, perform 
 
 - 🤖 Integrated **AI-powered health assessment** using Vercel AI SDK for preliminary diagnosis and risk insights.
 - 🗄️ Designed scalable backend with **PostgreSQL (Neon)** managing 500+ records with optimised query performance.
-- 🔐 Built role-based access system (Patient · Doctor · Admin) with dashboards, verification, and audit logs
+- 🔐 Built role-based access system (Patient · Doctor · Admin) with dashboards, verification, and audit logs.
 - 📱 Implemented fully responsive UI with **Tailwind CSS** across all device sizes
 
 > **Stack:** `Next.js` · `PostgreSQL (Neon)` · `Tailwind CSS` · `Vercel AI SDK`
