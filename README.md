@@ -39,14 +39,14 @@ I'm a full-stack developer with a growing focus on **AI/ML** — particularly ho
 
 A full-stack AI-powered mock interview platform simulating real interview environments with adaptive questioning, voice interaction, and multi-dimensional performance analytics.
 
-- 🤖 **GPT-4o** powered adaptive interviewer with domain-specific, difficulty-adjusted questioning
-- 🎙️ **Voice mode** via Whisper STT + OpenAI TTS for fully voice-driven interview sessions
-- 💻 **Live coding editor** (Monaco) supporting C++, Java & Python with real-time Piston API execution
-- 📊 **4-axis evaluation** — Technical Accuracy (40%), Communication (25%), Problem Solving (20%), Confidence (15%)
-- 📄 **Resume-based personalisation** — upload PDF → AI extracts skills → generates custom questions
-- 📈 **Analytics dashboard** with score history, domain radar charts, and activity heatmaps
-- 🏢 **Company Mode** simulating Google, Amazon, Microsoft, Meta & Apple interview styles
-- 🔐 **Dual-layer admin panel** with bcrypt hashing, HttpOnly cookies, 24-hour sessions
+- 🤖 **GPT-4o** powered adaptive interviewer with domain-specific, difficulty-adjusted questioning.
+- 🎙️ **Voice mode** via Whisper STT + OpenAI TTS for fully voice-driven interview sessions.
+- 💻 **Live coding editor** (Monaco) supporting C++, Java & Python with real-time Piston API execution.
+- 📊 **4-axis evaluation** — Technical Accuracy (40%), Communication (25%), Problem Solving (20%), Confidence (15%).
+- 📄 **Resume-based personalisation** — upload PDF → AI extracts skills → generates custom questions.
+- 📈 **Analytics dashboard** with score history, domain radar charts, and activity heatmaps.
+- 🏢 **Company Mode** simulating Google, Amazon, Microsoft, Meta & Apple interview styles.
+- 🔐 **Dual-layer admin panel** with bcrypt hashing, HttpOnly cookies, 24-hour sessions.
 
 > **Stack:** `Next.js 14` · `TypeScript` · `GPT-4o` · `Whisper` · `PostgreSQL (Neon)` · `Redis (Upstash)` · `Prisma` · `NextAuth.js` · `Monaco Editor` · `TensorFlow.js` · `Socket.IO` · `Vercel`
 
