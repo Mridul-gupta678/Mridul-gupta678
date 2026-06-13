@@ -25,7 +25,7 @@ I'm a full-stack developer with a growing focus on **AI/ML** — particularly ho
 
 - 🎓 **B.Tech CSE @ KIIT University** (Class of 2027)
 - 🔭 Currently building AI-powered platforms deployed on Vercel & Render.
-- 🌱 Interested in how ML systems are **architected, optimised, and scaled** in production
+- 🌱 Interested in how ML systems are **architected, optimised, and scaled** in production.
 - 💼 Open to **SDE & AI/ML Internship** opportunities
 - 🤝 Open to collaborating on projects at the intersection of **software engineering and AI**
 
