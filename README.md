@@ -61,7 +61,7 @@ A full-stack web platform for comparing product prices across multiple Indian e-
 - ⚡ Built RESTful backend services using **FastAPI** to aggregate, normalise, and serve product metadata.
 - 🕷️ Integrated web scraping and search-provider APIs for real-time pricing information.
 - 📉 Developed **historical price tracking & trend analysis** to help users identify optimal buying windows.
-- 🌐 Deployed frontend on GitHub Pages, backend on Render.
+- 🌐 Deployed frontend: GitHub Pages, backend on Render.
 
 > **Stack:** `Python` · `FastAPI` · `REST APIs` · `Web Scraping` · `HTML/CSS/JS`
 
