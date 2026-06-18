@@ -84,9 +84,9 @@ A full-stack healthcare platform enabling patients to discover doctors, perform 
 
 An advanced near-duplicate image detection system using Siamese Vision Transformers, deep hashing, and FAISS indexing.
 
-- 🧬 Optimised embedding generation using **contrastive and triplet loss** for robust similarity detection
-- 🎯 Achieved **90% accuracy** and **95% F1-score**, improving large-scale media retrieval efficiency by 20%
-- ⚡ Leveraged **FAISS** for approximate nearest-neighbour search at scale
+- 🧬 Optimised embedding generation using **contrastive and triplet loss** for robust similarity detection.
+- 🎯 Achieved **90% accuracy** and **95% F1-score**, improving large-scale media retrieval efficiency by 20%.
+- ⚡ Leveraged **FAISS** for approximate nearest-neighbour search at scale.
 
 > **Stack:** `Python` · `PyTorch` · `Vision Transformers (ViT)` · `FAISS` · `Deep Hashing`
 
