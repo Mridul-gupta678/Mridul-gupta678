@@ -19,7 +19,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me --
 
 I'm a full-stack developer with a growing focus on **AI/ML** — particularly how intelligent systems can be embedded into real-world, production-grade applications. My work sits at the intersection of clean software engineering and practical AI: from multi-store price comparison platforms to deep learning-based image detection pipelines to GPT-4o-powered mock interview systems.
 
