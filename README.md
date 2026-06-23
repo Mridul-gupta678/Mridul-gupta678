@@ -52,7 +52,7 @@ A full-stack AI-powered mock interview platform simulating real interview enviro
 
 ---
 
-### 🛒 [PricePilot](https://github.com/Mridul-gupta678) — Multi-Store Price Comparison & Tracking Platform
+### 🛒 [PricePilot](https://github.com/Mridul-gupta678) — Multi-Store Price Comparison & Tracking Platform.
 
 **[🔗 Live Demo](https://mridul-gupta678.github.io/pricepilot/) · [📂 Source](https://github.com/Mridul-gupta678/pricepilot)**
 
@@ -67,7 +67,7 @@ A full-stack web platform for comparing product prices across multiple Indian e-
 
 ---
 
-### 🏥 [MedPath](https://github.com/Mridul-gupta678) — AI-Powered Healthcare Platform
+### 🏥 [MedPath](https://github.com/Mridul-gupta678) — AI-Powered Healthcare Platform.
 
 A full-stack healthcare platform enabling patients to discover doctors, perform AI-based symptom analysis, and book appointments seamlessly.
 
@@ -80,7 +80,7 @@ A full-stack healthcare platform enabling patients to discover doctors, perform 
 
 ---
 
-### 🔍 [Near-Duplicate Image Detection](https://github.com/Mridul-gupta678) — Siamese ViT + Deep Hashing
+### 🔍 [Near-Duplicate Image Detection](https://github.com/Mridul-gupta678) — Siamese ViT + Deep Hashing.
 
 An advanced near-duplicate image detection system using Siamese Vision Transformers, deep hashing, and FAISS indexing.
 
@@ -92,7 +92,7 @@ An advanced near-duplicate image detection system using Siamese Vision Transform
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills:
 
 <div align="center">
 
