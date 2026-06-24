@@ -47,6 +47,7 @@ A full-stack AI-powered mock interview platform simulating real interview enviro
 - 📈 **Analytics dashboard** with score history, domain radar charts, and activity heatmaps.
 - 🏢 **Company Mode** simulating Google, Amazon, Microsoft, Meta & Apple interview styles.
 - 🔐 **Dual-layer admin panel** with bcrypt hashing, HttpOnly cookies, 24-hour sessions.
+- 🔐 **Dual-layer admin panel** with bcrypt hashing, HttpOnly cookies, 24-hour sessions.
 
 > **Stack:** `Next.js 14` · `TypeScript` · `GPT-4o` · `Whisper` · `PostgreSQL (Neon)` · `Redis (Upstash)` · `Prisma` · `NextAuth.js` · `Monaco Editor` · `TensorFlow.js` · `Socket.IO` · `Vercel`
 
