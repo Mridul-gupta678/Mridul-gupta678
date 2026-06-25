@@ -33,7 +33,7 @@ I'm a full-stack developer with a growing focus on **AI/ML** — particularly ho
 
 ## 🚀 Featured Projects:
 
-### 🧠 [InterviewAI](https://ai-interview-platform-rosy.vercel.app/) — Production-Ready AI Mock Interview Platform
+### 🧠 [InterviewAI](https://ai-interview-platform-rosy.vercel.app/) — Production-Ready AI Mock Interview Platform:
 
 > **[🔗 Live Demo](https://ai-interview-platform-rosy.vercel.app/) · [📂 Source](https://github.com/Mridul-gupta678/AI_INTERVIEW)**
 
